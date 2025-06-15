@@ -19,3 +19,20 @@ A simple and visually appealing calculator built using **React**. It supports ba
 - CSS Modules
 
 ---
+
+## 📸 Preview
+
+![Calculator Test](
+https://pranshulbajaj.github.io/My-Calculator/)
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ✍️ Author
+
+Made with 💚 by **Pranshul Bajaj**
