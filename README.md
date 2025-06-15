@@ -22,7 +22,7 @@ A simple and visually appealing calculator built using **React**. It supports ba
 
 ## 📸 Preview
 
-![Calculator Test](
+[Calculator Test](
 https://pranshulbajaj.github.io/My-Calculator/)
 
 ---
